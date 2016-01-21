@@ -21,5 +21,12 @@
         "1.0.0": "provideIntentions"
       }
     }
+  },
+  "consumedServices": {
+    "color-picker": {
+      "versions": {
+        "^1.0.0": "consumeColorPicker"
+      }
+    }
   }
 }
