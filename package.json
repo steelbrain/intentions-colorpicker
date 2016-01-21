@@ -2,7 +2,7 @@
   "name": "intentions-colorpicker",
   "main": "./lib/index",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Colorpicker for intentions package",
   "keywords": [],
   "repository": "https://github.com/steelbrain/intentions-colorpicker",
   "license": "MIT",
