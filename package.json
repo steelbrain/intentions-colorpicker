@@ -14,5 +14,12 @@
   },
   "package-deps": [
     "intentions"
-  ]
+  ],
+  "providedServices": {
+    "intentions": {
+      "versions": {
+        "1.0.0": "provideIntentions"
+      }
+    }
+  }
 }
