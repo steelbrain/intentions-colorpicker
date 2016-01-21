@@ -9,5 +9,24 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "atom-package-deps": "^3.0.7"
+  },
+  "package-deps": [
+    "intentions", "color-picker"
+  ],
+  "providedServices": {
+    "intentions": {
+      "versions": {
+        "1.0.0": "provideIntentions"
+      }
+    }
+  },
+  "consumedServices": {
+    "color-picker": {
+      "versions": {
+        "^1.0.0": "consumeColorPicker"
+      }
+    }
+  }
 }
