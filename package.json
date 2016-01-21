@@ -13,7 +13,7 @@
     "atom-package-deps": "^3.0.7"
   },
   "package-deps": [
-    "intentions", "sb-color-picker"
+    "intentions", "color-picker"
   ],
   "providedServices": {
     "intentions": {
