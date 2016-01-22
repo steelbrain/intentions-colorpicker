@@ -1,3 +1,7 @@
+#### 0.1.4
+
+* Reset regex state after each call
+
 #### 0.1.3
 
 * Support multiple colors in the same line
