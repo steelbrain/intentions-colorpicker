@@ -1,7 +1,7 @@
 {
   "name": "intentions-colorpicker",
   "main": "./lib/index",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Colorpicker for intentions package",
   "keywords": [],
   "repository": "https://github.com/steelbrain/intentions-colorpicker",
