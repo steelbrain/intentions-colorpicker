@@ -1,3 +1,7 @@
+#### 0.1.5
+
+* Support hex colors in rgba block
+
 #### 0.1.4
 
 * Reset regex state after each call
