@@ -1,3 +1,7 @@
+#### 0.1.3
+
+* Support multiple colors in the same line
+
 #### 0.1.2
 
 * Show colorpicker regardless of scope
