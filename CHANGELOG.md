@@ -1,3 +1,8 @@
+#### 1.0.0
+
+* Upgraded to Intentions API 1.0.0
+* Added support for Intentions Highlights API
+
 #### 0.1.5
 
 * Support hex colors in rgba block
