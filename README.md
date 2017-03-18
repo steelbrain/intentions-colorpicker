@@ -1,6 +1,8 @@
 Intentions-ColorPicker
 ===================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/steelbrain/intentions-colorpicker.svg)](https://greenkeeper.io/)
+
 Intentions-ColorPicker is an Atom package that adds [ColorPicker](https://github.com/thomaslindstrom/color-picker) support to [Intentions](https://github.com/steelbrain/intentions) package.
 
 Whenever your cursor is at a color, just trigger intentions and you'll see this
